@@ -1,6 +1,7 @@
 # ImAscii
 
 Converts images to ascii.
+Improved version of [this](https://github.com/electronut/pp/blob/master/ascii/ascii.py).
 
 ## Example
 
