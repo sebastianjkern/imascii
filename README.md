@@ -10,7 +10,7 @@ python imascii.py --file image.jpg --cols 235 --enhance --invert
 
 Will result in:
 
-<img src="/image.jpg" width="250"> <img src="/ascii.png" width="250">
+<img src="/image.jpg" height="250"> <img src="/ascii.png" height="250">
 
 ## Requirements
 
