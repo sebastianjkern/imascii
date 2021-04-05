@@ -19,7 +19,7 @@ To get a copy up and running, please install
 all the dependencies listed down below.
 
 - numpy
-- PIL
+- pillow
 - argparse
 - console
 
