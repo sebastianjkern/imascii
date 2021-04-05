@@ -21,6 +21,7 @@ all the dependencies listed down below.
 - numpy
 - PIL
 - argparse
+- console
 
 ## Author
 
